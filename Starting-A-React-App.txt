@@ -1,0 +1,18 @@
+Step1:
+npm create vite@latest
+
+step2:
+Name the project
+
+step3:
+Select a framework
+
+step4:
+Select a variant
+
+step5:
+cd Name of project
+npm install
+npm run dev 
+
+NPM run dev starts the development server

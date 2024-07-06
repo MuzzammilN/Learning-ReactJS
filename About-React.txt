@@ -1,0 +1,15 @@
+main.jsx is the main javascript file
+app component is the root component
+index.html main entry of the document
+
+
+To return two functions form the app function you will need to use a fragment
+a fragment is <> </>
+
+so your return function should look like something similair to this
+return(
+<>
+<Header/>
+<Footer/>
+</>
+);
