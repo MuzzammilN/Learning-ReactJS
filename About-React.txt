@@ -16,3 +16,19 @@ return(
 
 You can't use class to set an object as in JSX class is a reserved name you have to use
 className ="" 
+
+
+React hook =  Special function that allows functional components 
+to use Readcat features without writing class Components (React v16.8)
+(useState, useEffect, useContext, useReducer, useCallback, and more..)
+
+
+useState() = A React hook that allows the creation of a stateful variable
+and a setter function to update its value in the virtual DOM.
+[name, setName]
+
+
+
+onChange = event with handler used primarily with form elements
+ex <input>, <textarea>, <select>, <radio> triggers a function every
+time the value of the input changes
