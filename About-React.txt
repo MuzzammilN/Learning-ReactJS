@@ -13,3 +13,6 @@ return(
 <Footer/>
 </>
 );
+
+You can't use class to set an object as in JSX class is a reserved name you have to use
+className ="" 
